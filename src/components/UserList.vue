@@ -77,10 +77,12 @@
     @close="closeModal"
   />
   <br>
-  <p>Things I'd implement if I had more time: </p>
+   <p>Things I'd implement if I had more time: </p>
   <p>Scrubbing the data</p>
   <p>Finding a better way to search multiple params in Firestore</p>
   <p>I think the switching "A-Z" and "Z-A" toggles are slick, but they're awfully small and I want to make them larger</p>
+  <p>Adding better confirmation/error messaging</p>
+  <p>Figuring out a way to do a sql 'like' statement in the firebase api</p> 
   <p>A more friendly UX/UI layout</p>
 </template>
 
